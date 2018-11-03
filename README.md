@@ -1,30 +1,32 @@
 # Hardware
 
-Makey Makey - Super easy, great for beginginners. [https://makeymakey.com/]
+* Makey Makey - [https://makeymakey.com/]
+Super easy, great for beginners. An Invention Kit for Everyone. Ever played Mario on Play-Doh or Piano on Bananas? Alligator clip to start inventing the future.
 
-Arduino -  Pretty easy. Open-source circuitry for general input/outputs. Uses Java. [https://www.arduino.cc/] 
+* Arduino - [https://www.arduino.cc/]
+Arduino is an open-source electronics platform based on easy-to-use hardware and software. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something online. You can tell your board what to do by sending a set of instructions to the microcontroller on the board. To do so you use the Arduino programming language (based on Wiring), and the Arduino Software (IDE), based on Processing.
 
-Particle - A little more advanced, but builds off of Arduino principles. Used for IOT (Internet of Things) projects. [https://www.particle.io/]
 
+* Particle - [https://www.particle.io/]
+The only all-in-one IoT platform on the market. Everything you need to power your IoT product, from device to cloud. Based on Arduino, Node-Red, Atom, and more.
 
-* [McMaster-Carr](https://www.mcmaster.com/)
-* [Online Laser Cutting & Engraving. Ship Same Day. 24/7 Online Quotes](https://www.ponoko.com/)
-* [American Science and Surplus](https://www.sciplus.com/)
-* [Datasheets, Electronic Parts, Components, Search - Octopart](https://octopart.com/)
+* [Adafruit Industries](https://www.adafruit.com/) - Unique & fun DIY electronics and kits
 * [SparkFun Electronics](https://www.sparkfun.com/)
-* [Adafruit Industries, Unique & fun DIY electronics and kits](https://www.adafruit.com/)
-* [Shapeways - Create Your Product. Build Your Business](https://www.shapeways.com/)
-* [RobotShop | Robot Store | Robots | Robot Parts | Robot Kits | Robot Toys](https://www.robotshop.com/)
-* [Trossen Robotics - Robotic Arms, Crawlers Turrets and more!](https://www.trossenrobotics.com/)
-* [Seeed Studio Bazaar, The IoT Hardware enabler.](https://www.seeedstudio.com/)
-* [Arduino - Home](https://www.arduino.cc/)
-* [Parallax Inc | Equip your genius ®](https://www.parallax.com/)
+* [Seeed Studio](https://www.seeedstudio.com/) - The IoT Hardware enabler
+* [RobotShop](https://www.robotshop.com/) - Robot Store, Robots, Robot Parts, Robot Kits, Robot Toys
+* [McMaster-Carr](https://www.mcmaster.com/)
+* [Ponoko](https://www.ponoko.com/) - Online Laser Cutting & Engraving. Ship Same Day. 24/7 Online Quotes
+* [American Science and Surplus](https://www.sciplus.com/)
+* [Octopart](https://octopart.com/) - Datasheets, Electronic Parts, Components
+* [Shapeways](https://www.shapeways.com/) - Create Your Product. Build Your Business
+* [Trossen Robotics](https://www.trossenrobotics.com/) - Robotic Arms, Crawlers Turrets and more!
+* [Parallax](https://www.parallax.com/)
 * [Solarbotics](https://solarbotics.com/)
-* [Pololu Robotics and Electronics](https://www.pololu.com/)
+* [Pololu](https://www.pololu.com/) - Robotics and Electronics
 * [Mammoth Electronics](https://www.mammothelectronics.com/)
-* [All Electronics | Electronic and Electro-Mechanical Parts and Supplies at Discount Prices](https://www.allelectronics.com/)
-* [Jameco Electronics - Electronic Components Distributor](https://www.jameco.com/webapp/wcs/stores/servlet/StoreCatalogDisplay?storeId=10001&catalogId=10001&langId=-1&rfr=1)
-* [DigiKey Electronics - Electronic Components Distributor](https://www.digikey.com/)
-* [Mouser Electronics - Electronic Components Distributor](https://www.mouser.com/)
-* [Newark element14 Electronics | Electronic Components Distributor](https://www.newark.com/)
-* [Home | Microchip Technology](https://www.microchip.com/)
+* [All Electronics](https://www.allelectronics.com/) - Electronic and Electro-Mechanical Parts and Supplies at Discount Prices
+* [Jameco Electronics](https://www.jameco.com/webapp/wcs/stores/servlet/StoreCatalogDisplay?storeId=10001&catalogId=10001&langId=-1&rfr=1) - Electronic Components Distributor
+* [DigiKey Electronics](https://www.digikey.com/)
+* [Mouser Electronics](https://www.mouser.com/)
+* [Newark element14](https://www.newark.com/)
+* [Microchip Technology](https://www.microchip.com/)
